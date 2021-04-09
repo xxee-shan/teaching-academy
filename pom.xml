@@ -86,9 +86,9 @@
 	</distributionManagement>
 	
 	<scm>
-		<connection>scm:git@github.com:xxee-shan/teaching-academy.git</connection>
-		<url>scm:git@github.com:xxee-shan/teaching-academy.git</url>
-		<developerConnection>scm:git@github.com:xxee-shan/teaching-academy.git</developerConnection>
+		<connection>scm:git:git@github.com:xxee-shan/teaching-academy.git</connection>
+		<url>scm:git:git@github.com:xxee-shan/teaching-academy.git</url>
+		<developerConnection>scm:git:git@github.com:xxee-shan/teaching-academy.git</developerConnection>
 	</scm>
 
 	<build>
